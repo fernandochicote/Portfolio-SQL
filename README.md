@@ -36,7 +36,7 @@ Este portafolio contiene una colecci√≥n de consultas SQL organizadas en categor√
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone <https://github.com/fernandochicote/Portfolio-SQL.git>
    ```
 2. Explora las carpetas para encontrar ejemplos relevantes a tu proyecto.
 3. Ejecuta las consultas en tu entorno de base de datos favorito.
